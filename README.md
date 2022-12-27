@@ -1,7 +1,7 @@
 # OOP.Assignment1
 Expanding capabilities of ‫‪StringBuilder while using observer Design patterns
 
-# UndoableStringBuilder
+### UndoableStringBuilder
 StringBuilder class with the option of undo method
 
 ### Sender
